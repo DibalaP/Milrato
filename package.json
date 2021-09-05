@@ -16,7 +16,7 @@
     "discord-canvas": "^1.4.1",
     "discord-economy": "^1.2.2",
     "discord-gifs": "^1.3.7",
-    "discord-giveaways": "github:Nico105/discord-giveaways#not-reroll-same-winner",
+    "discord-giveaways": "5.0.1",
     "discord.js": "^12.5.1",
     "discord.js-pagination": "^1.0.3",
     "enmap": "^5.8.4",
